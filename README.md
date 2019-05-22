@@ -1,7 +1,7 @@
 # JDAddressSelectorByJson
 类似京东的地址悬着控件
 一个 Android 版京东手机客户端风格的级联地址选择器。
-![image](https://github.com/Hunter2916/addressSelectorLibrary/blob/master/20190513205631.jpg)
+![image](https://github.com/Hunter2916/JDAddressSelectorByJson/blob/master/20190522141824_gaitubao_574x1020.jpg)
 
 项目的 `build.gradle` 中：
 
