@@ -16,7 +16,7 @@
 
     dependencies {
         ...
-        implementation 'com.github.Hunter2916:addressSelectorLibrary:v1.1.5'
+        implementation 'com.github.Hunter2916:JDAddressSelectorByJson:1.1.5'
     }
     ## 关于我
 
