@@ -1,7 +1,7 @@
 package com.hunter.jdaddressselectorbyjson
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.widget.Toast
 import chihane.jdaddressselector.AddressSelector
 import chihane.jdaddressselector.BottomDialog
