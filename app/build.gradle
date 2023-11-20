@@ -5,10 +5,10 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 30
     defaultConfig {
         applicationId "com.hunter.jdaddressselectorbyjson"
-        minSdkVersion 20
+        minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -24,7 +24,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    buildToolsVersion '30.0.2'
+    buildToolsVersion '30.0.3'
 }
 
 dependencies {

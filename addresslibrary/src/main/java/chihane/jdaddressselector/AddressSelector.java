@@ -40,7 +40,7 @@ public class AddressSelector implements AdapterView.OnItemClickListener {
     private static final int WHAT_STREETS_PROVIDED = 3;
 
     @SuppressWarnings("unchecked")
-    private Handler handler = new Handler(new Handler.Callback() {
+    private final Handler handler = new Handler(new Handler.Callback() {
         @Override
         public boolean handleMessage(Message msg) {
             switch (msg.what) {
